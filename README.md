@@ -1,4 +1,4 @@
-# Docker Usage
+## Docker Usage
 Pull image:
 ```
 docker pull manimcommunity/manim
