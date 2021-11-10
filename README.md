@@ -3,6 +3,8 @@
 
 [Check-in planning](https://docs.google.com/document/d/1wVh90rZv3C7u2CFT7Q0CuS2hQDuDXER5/edit?usp=sharing&ouid=103446296178935226930&rtpof=true&sd=tru)
 
+[Research Document](https://docs.google.com/document/d/1r_AlHat4Z4I1dabsPTv-6JfCf1BlSYet6A0s5vxckVw/edit?usp=sharing)
+
 ## Docker Usage
 Pull image:
 ```
