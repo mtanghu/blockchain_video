@@ -5,6 +5,8 @@
 
 [Research Document](https://docs.google.com/document/d/1r_AlHat4Z4I1dabsPTv-6JfCf1BlSYet6A0s5vxckVw/edit?usp=sharing)
 
+[Script](https://docs.google.com/document/d/16gfs46XGmGOJqK7dOj-g2tbf4wehNl0h781cCDvAXZM/edit?usp=sharing)
+
 ## Docker Usage
 Pull image:
 ```
