@@ -7,6 +7,8 @@
 
 [Script](https://docs.google.com/document/d/16gfs46XGmGOJqK7dOj-g2tbf4wehNl0h781cCDvAXZM/edit?usp=sharing)
 
+[ANIMATIONS](https://drive.google.com/drive/folders/1__j07Wi7yPfupzI1EgCzlwg23MDrmQM7?usp=sharing)
+
 ## Docker Usage
 Pull image:
 ```
