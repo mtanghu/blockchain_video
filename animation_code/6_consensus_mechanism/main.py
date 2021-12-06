@@ -11,7 +11,7 @@ class ConsensusMechanism(Scene):
         users.arrange(RIGHT, buff=SMALL_BUFF)
         users.move_to(UP * 2.5)
 
-        hacker = ImageMobject("./new.png")
+        hacker = ImageMobject("./criminal.png")
         hacker.move_to(DOWN * 2.5).scale(0.5)
 
         self.play(FadeIn(chain, users, hacker))
