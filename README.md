@@ -9,6 +9,8 @@
 
 [Animations](https://drive.google.com/drive/folders/1zLGMc60EmgI6vcD4p1P-XveU5MXIs03e?usp=sharing)
 
+[Essay](https://docs.google.com/document/d/1qd-Hmv3DFbWrgk_Xr0V9JVA0wyYJSrIg5BKXv1Atp1o/edit?usp=sharing)
+
 ## Docker Usage
 Pull image:
 ```
